@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "jay-some",
+        "projectKey": "Jay-some_TheVault"
+    }
+}
